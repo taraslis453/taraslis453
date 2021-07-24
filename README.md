@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @taraslis453
-- 👀 I’m interested in frontend development
-- 💞️ I’m looking to collaborate on React, Typescript ...
 - 📫 Reach me via telegram @tqiko ...
 
 <!---
