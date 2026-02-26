@@ -1,6 +1,6 @@
 ## Taras Lysyi
 
-Software engineer. Five years building production systems — distributed
+Software engineer. Building production systems — distributed
 services, real-time data pipelines, and AI integrations that do something
 genuinely useful in production, not just wrappers around APIs.
 
@@ -23,11 +23,3 @@ plugs into existing service architecture. MCP servers, tool-use patterns,
 context-aware agents.
 
 ---
-
-### Stack
-
-Go, TypeScript, PostgreSQL, Kafka, gRPC.
-
----
-
-Telegram: [@tqiko](https://t.me/tqiko)
