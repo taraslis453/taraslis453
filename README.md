@@ -1,6 +1,5 @@
 ## Taras Lysyi
 
-Systems engineer. I build AI-integrated production 
-infrastructure — not wrappers, not demos.
+AI-Native Engineer | Shipping Production Code Through AI Agents | Go
 
 taras@lysyi.co
